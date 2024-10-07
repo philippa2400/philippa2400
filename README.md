@@ -6,6 +6,8 @@ Mitt namn är Philippa Nilsson och jag har precis börjat studera _webbutvecklin
 * Att hantera flera programmeringsspråk
 * Att skapa och designa professionella webbplatser till framtida kunder
 
+
+
 ### Följ med på min resa och se utvecklingen ta fart!
 
 **Kontakta gärna mig:**
